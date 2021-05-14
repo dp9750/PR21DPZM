@@ -57,3 +57,15 @@ Zdaj ko veva kdaj se je večina nesreč zgodila, so naju zanimale okoliščine n
 Kar se tiče poškodb, je razvidno, da je večina poškodb lažjh in v vsakem starostnem obdobju. Največ nesreč pa se zgodi mladim udeležencem saj še nimajo veliko izkušenj in so bolj nepremišljeni.
 
 ![Nsrece po starosti in stopnji poskodbe](img/starost_in_stopnja_nesrece.PNG)
+
+## Vpliv temperature na število nesreč
+
+Zanimalo naju je kakšen vpliv ima temperatura na pogostost nesreč. Iz grafa je razvidno, da je ta vpliv minimalen. Pričakovala sva, da bo temperatura imela večji vpliv na število nesreč. 
+
+![Stevilo nesrec in povprecna temperatura po dnevih](img/vpliv_temperature.PNG)
+
+## Napovedovanje trenda
+
+Znimalo naju je tude, kako bi se naj število nesreč spreminjalo v prihodnosti. Model napoveduje zelo majhne spremembe v številu nesreč na dan. Število nesreč naj nebi raslo v prihodnosti. Napoveduje vrednosti za približno 100 dni naprej.
+
+![Napovedovanje stevila nesrec](img/napovedovanje_stevila_nesrec.PNG)
