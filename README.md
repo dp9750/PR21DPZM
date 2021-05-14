@@ -62,10 +62,10 @@ Kar se tiče poškodb, je razvidno, da je večina poškodb lažjh in v vsakem st
 
 Zanimalo naju je kakšen vpliv ima temperatura na pogostost nesreč. Iz grafa je razvidno, da je ta vpliv minimalen. Pričakovala sva, da bo temperatura imela večji vpliv na število nesreč. 
 
-![Stevilo nesrec in povprecna temperatura po dnevih](img/vpliv_temperature.PNG)
+![Stevilo nesrec in povprecna temperatura po dnevih](img/vpliv_temperature.png)
 
 ## Napovedovanje trenda
 
 Znimalo naju je tude, kako bi se naj število nesreč spreminjalo v prihodnosti. Model napoveduje zelo majhne spremembe v številu nesreč na dan. Število nesreč naj nebi raslo v prihodnosti. Napoveduje vrednosti za približno 100 dni naprej.
 
-![Napovedovanje stevila nesrec](img/napovedovanje_stevila_nesrec.PNG)
+![Napovedovanje stevila nesrec](img/napovedovanje_stevila_nesrec.png)
