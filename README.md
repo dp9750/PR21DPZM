@@ -62,7 +62,11 @@ Kar se tiče poškodb, je razvidno, da je večina poškodb lažjh in v vsakem st
 
 Zanimalo naju je kakšen vpliv ima temperatura na pogostost nesreč. Iz grafa je razvidno, da je ta vpliv minimalen. Pričakovala sva, da bo temperatura imela večji vpliv na število nesreč. 
 
-![Stevilo nesrec in povprecna temperatura po dnevih](img/vpliv_temperature.png)
+![Porazdelitev stevila nesrec](img/vpliv_temperature.png)
+
+![Stevilo nesrec in povprecna temperatura po dnevih](img/brke.png)
+
+Škatla z brki nam prikaže, da ima mediana vrednost 6, prvi kvartil 3 in tretji kvartil 10. Izvemo tudi, da je spodnja meja za osamelce 1 in zogrnja meja 20, za katero najdemo 11 osamelcev.
 
 ## Napovedovanje trenda
 
